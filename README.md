@@ -52,6 +52,18 @@ Construa a imagem do projeto:
 docker compose build etl upload-minio
 ```
 
+A imagem publicada no GitHub Packages fica em:
+
+```text
+ghcr.io/paulossjunior/mpi_document:latest
+```
+
+Para baixar a imagem:
+
+```bash
+docker pull ghcr.io/paulossjunior/mpi_document:latest
+```
+
 Execute o ETL em Docker:
 
 ```bash
