@@ -1,5 +1,9 @@
 # Extract PDF Document
 
+[![CI Docker](https://github.com/paulossjunior/extract_pdf_document/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/paulossjunior/extract_pdf_document/actions/workflows/docker-publish.yml)
+[![Release](https://img.shields.io/github/v/release/paulossjunior/extract_pdf_document)](https://github.com/paulossjunior/extract_pdf_document/releases)
+[![Repository](https://img.shields.io/badge/GitHub-extract__pdf__document-black)](https://github.com/paulossjunior/extract_pdf_document)
+
 Pipeline ETL em Python para extrair dados de PDFs e imagens com Docling, separando a saida em texto, tabelas e imagens.
 
 Fluxo principal:
